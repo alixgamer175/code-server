@@ -92,7 +92,7 @@
     "js-yaml": "^4.0.0",
     "limiter": "^1.1.5",
     "pem": "^1.14.2",
-    "proxy-agent": "^5.0.0",
+    "proxy-agent": "^6.5.0",
     "proxy-from-env": "^1.1.0",
     "qs": "6.10.1",
     "rotating-file-stream": "^3.0.0",
